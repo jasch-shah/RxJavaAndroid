@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RxJavaExample</string>
+    <string name="map">Map</string>
+    <string name="zip">Zip</string>
+    <string name="take">Take</string>
+    <string name="flatmap">FlatMap</string>
+    <string name="flatmap_with_zip">FlatMap with Zip</string>
+    <string name="flatMapWithFilter">FlatMap With Filter</string>
+    <string name="click_me">Click Me !!</string>
+    <string name="result">Result</string>
+    <string name="doSomeWork">Do Some Work</string>
+</resources>
